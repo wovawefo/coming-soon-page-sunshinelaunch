@@ -2,7 +2,7 @@
 Contributors: SunshineSites
 Tags: coming soon, coming soon plugin, coming soon wordpress, wordpress coming soon, launch page, landing page, landingpage, launch, launching, maintenance, under, construction, under construction, coming soon page, email marketing, squeeze page, coming soon template
 Requires at least: 3.5.1
-Tested up to: 4.1.1
+Tested up to: 4.2.1
 Stable tag: 0.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
